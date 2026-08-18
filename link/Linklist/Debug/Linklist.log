@@ -1,0 +1,6 @@
+﻿  1.c
+D:\feiq\link\Linklist\1.c(559): warning C4715: “Pop_stack”: 不是所有的控件路径都返回值
+D:\feiq\link\Linklist\1.c(492): warning C4715: “Destory_stack”: 不是所有的控件路径都返回值
+D:\feiq\link\Linklist\1.c(519): warning C4715: “Is_empty”: 不是所有的控件路径都返回值
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\feiq\link\Linklist\Debug\Linklist.exe : fatal error LNK1120: 1 个无法解析的外部命令
